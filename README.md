@@ -1,6 +1,6 @@
 # Homebrew-php
 
-To add tap, run `brew tap henkrehorst/homebrew-php`
+To add tap, run `brew tap henkrehorst/homebrew-php-test`
 
 <h4>PHP versions available</h4>
 
